@@ -17,5 +17,7 @@ Steps to run:
 
  2) You have already created a web application server and installed and deployed
  your webapp (e.g. drupal or wordpress etc) in the server.
+ You can see the manual steps here:
+ (http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-deploy-app.html)
 
  3) You have built an AMI out of your webapp in 2) 
