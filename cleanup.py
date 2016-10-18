@@ -1,9 +1,9 @@
 #!/usr/bin/python
 #
-# NOTE: This script only cleans up the part that is most involved in aws billing
+# NOTE: This script only cleans up the part that contributes more in aws billing
 # It will not remove the VPC and subnets and security groups that you created
 # with setup_webapp.py. So if you want to run setup_webapp.py again, make sure
-# to remove the previous VPC stuff or comment out that section from the script.
+# to remove the previous VPC stuff manually
 #
 
 import config
